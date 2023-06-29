@@ -1,0 +1,2 @@
+# lookstar
+meu repositório inicial
